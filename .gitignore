@@ -1,0 +1,8 @@
+.env
+venv
+/tests/testbd.py
+/save_error.txt
+**/logs
+.log
+.idea
+.__pacache__
